@@ -1,4 +1,0 @@
-var structls_1_1io_1_1_nanopb_wrapper_3_01_eigen_1_1_matrix_3_01_t_scalar_00_01_n_rows_00_01_n_cols_00_01_n_options_01_4_01_4 =
-[
-    [ "MatrixCounter", "structls_1_1io_1_1_nanopb_wrapper_3_01_eigen_1_1_matrix_3_01_t_scalar_00_01_n_rows_00_01_n_cols_30694b2f4a7020dbab134c0a82183193.html", null ]
-];
